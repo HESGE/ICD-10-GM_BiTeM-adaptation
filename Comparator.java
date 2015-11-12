@@ -27,8 +27,8 @@ public class Comparator {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-        //delta_MVC_MTC();
-        //translation();
+        delta_MVC_MTC();
+        translation();
         transcoding_Map_HUG();
     }
 
